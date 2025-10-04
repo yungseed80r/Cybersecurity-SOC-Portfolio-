@@ -1,1 +1,22 @@
+# Splunk Queries Used in Investigation
+
+## Detect failed logons (identify accounts with >5 failed attempts in 10 minutes)
+index=windows sourcetype=WinEventLog:Security EventCode=4625
+| bin _time span=10m
+| stats count by user, src_ip, host, _time
+| where count > 5
+
+## Correlate successful logons after failures (sequence)
+index=windows sourcetype=WinEventLog:Security EventCode IN (4625,4624)
+| transaction user startswith=4625 endswith=4624 maxspan=15m
+| table user, src_ip, host, duration, eventcount
+
+## Detect new account creation
+index=windows sourcetype=WinEventLog:Security EventCode=4720
+| table _time, host, Account_Name, SubjectUserName
+
+## Quick IOC search for the malicious IP
+index=* (src_ip=192.168.1.45 OR dest_ip=192.168.1.45)
+| sort -_time
+| table _time, host, source, sourcetype, EventCode, user, src_ip, dest_ip, _raw
 

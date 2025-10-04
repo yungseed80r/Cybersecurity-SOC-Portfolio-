@@ -1,5 +1,3 @@
-# Cybersecurity-SOC-Portfolio-
-Hands-on cybersecurity and SOC portfolio demonstrating real-world investigations, vulnerability assessments, and incident response analysis.
 # Cybersecurity SOC Portfolio  
 **Author:** Alexander T. Ramos  
 **Focus:** Security Operations Center (SOC) | Threat Detection | Incident Response | Blue Team Analysis  

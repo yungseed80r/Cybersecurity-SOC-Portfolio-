@@ -1,5 +1,11 @@
 # 🛡️ Cybersecurity SOC Portfolio  
-### by Alexander T. Ramos
+### by Alexander T. Ramos  
+
+📂 **Explore Full Portfolio on GitHub:**  
+[🔗 View Cybersecurity SOC Portfolio Repository](https://github.com/yungseed80r/Cybersecurity-SOC-Portfolio-)
+
+📄 **Download Overview (PDF):**  
+[📥 Alexander_Ramos_Cybersecurity_SOC_Portfolio_Overview_v2.pdf](./Alexander_Ramos_Cybersecurity_SOC_Portfolio_Overview_v2.pdf)
 
 **Objective:**  
 Showcase practical, hands-on cybersecurity skills across SOC disciplines including log analysis, vulnerability management, phishing investigation, incident response, and home lab simulation.  

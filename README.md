@@ -98,6 +98,9 @@ Serves as the foundation for SOC exercises in this portfolio.
 
 ---
 
+📄 [Download Full Portfolio Overview (PDF)](./Alexander_Ramos_Cybersecurity_SOC_Portfolio_Overview_v2.pdf)
+
+
 ## 🧑‍💻 About the Author  
 **Alexander T. Ramos**  
 Cybersecurity Analyst | CompTIA Security+ | Network+ | IT Essentials Certified  

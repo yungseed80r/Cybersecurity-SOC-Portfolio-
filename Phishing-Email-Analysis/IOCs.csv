@@ -1,0 +1,5 @@
+Type,Indicator,Description,Source,Severity
+Domain,securehelpdesk.info,Fake IT domain used for phishing,Email Analysis,High
+IP,185.244.25.101,Hosting server for phishing landing page,Email Header,High
+URL,https://securehelpdesk.info/login/update-password,Redirects to credential harvesting site,Email Body,High
+Email Address,ithelpdesk@securehelpdesk.info,Spoofed sender address impersonating IT support,Email Header,Medium

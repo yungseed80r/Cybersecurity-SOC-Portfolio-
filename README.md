@@ -11,6 +11,8 @@
 📧 [yungseed@gmail.com](mailto:yungseed@gmail.com)  
 🌐 [LinkedIn – Alexander T. Ramos](https://www.linkedin.com/in/alexander-t-ramos)
 
+---
+
 **Objective:**  
 Showcase practical, hands-on cybersecurity skills across SOC disciplines including log analysis, vulnerability management, phishing investigation, incident response, and home lab simulation.  
 All artifacts reflect real-world workflows aligned with **NIST 800-61**, **NIST 800-53**, and **MITRE ATT&CK** frameworks.

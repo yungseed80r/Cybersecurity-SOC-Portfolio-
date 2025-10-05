@@ -24,7 +24,7 @@ The portfolio builds upon my GRC (Governance, Risk & Compliance) experience and 
 ### 2. Phishing Email Analysis  
 - Analyzed a real-world phishing email sample, examining headers, links, and payload indicators.  
 - Documented red flags, IOCs (Indicators of Compromise), and mitigation steps.  
-- Deliverables: `Phishing_Email_Analysis.md`, `Report.pdf`
+- Deliverables: `Email_Investigation.md`, `Phishing_Report_Alexander_Ramos.pdf`
 
 ---
 

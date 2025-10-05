@@ -6,17 +6,31 @@ Each artifact simulates a practical SOC or governance scenario — including **t
 
 ---
 
-## 🚀 Featured Artifacts
+## 📌 Featured Artifacts
 
-| # | Artifact | Description | Skills | Link |
-|:-:|:--|:--|:--|:--|
-| 🧠 **1** | **SIEM Log Analysis** | Investigation of a brute-force attack using SIEM event correlation (Windows Event ID 4625, 4624, 4720). | Splunk • SIEM • Event Triage • Documentation | [![View Artifact](https://img.shields.io/badge/View_Artifact-181717?style=for-the-badge&logo=github)](./SIEM-Log-Analysis) |
-| ✉️ **2** | **Phishing Email Analysis** | Phishing email investigation with IOC extraction and mitigation recommendations. | Email Header Analysis • WHOIS/VirusTotal • Phishing Response | [![View Artifact](https://img.shields.io/badge/View_Artifact-181717?style=for-the-badge&logo=github)](./Phishing-Email-Analysis) |
-| 🧰 **3** | **Vulnerability Scan & Report** | Perform and document a Nessus-style vulnerability assessment with CVSS scoring and remediation plan. | Vulnerability Mgmt • Patch Analysis • Risk Reporting | [![View Artifact](https://img.shields.io/badge/View_Artifact-181717?style=for-the-badge&logo=github)](./Vulnerability-Scan) |
-| 🚨 **4** | **Incident Response Playbook** | A detailed IR playbook and tabletop scenario for SOC escalation and containment. | Incident Handling • Escalation • Containment & Recovery | [![View Artifact](https://img.shields.io/badge/View_Artifact-181717?style=for-the-badge&logo=github)](./Incident-Response) |
-| 💻 **5** | **Home Security Lab** | Virtual cybersecurity lab setup for hands-on SOC practice and testing. | Virtualization • Network Segmentation • Ethical Hacking | [![View Artifact](https://img.shields.io/badge/View_Artifact-181717?style=for-the-badge&logo=github)](./Home-Lab) |
-| 🛡️ **6** | **GRC Risk Assessment Report** | Risk and compliance analysis following NIST/ISO 27001 framework with risk register. | GRC • Risk Management • Compliance | [![View Artifact](https://img.shields.io/badge/View_Artifact-181717?style=for-the-badge&logo=github)](./GRC-Risk-Assessment) |
+1) **SIEM Log Analysis** — Brute-force investigation with Splunk correlation  
+   - Folder: [`SIEM-Log-Analysis`](./SIEM-Log-Analysis)  
+   - Key files: `readme.md` (summary), any alert/notes you add
 
+2) **Phishing Email Analysis** — Header review, IOC extraction, mitigation  
+   - Folder: [`Phishing-Email-Analysis`](./Phishing-Email-Analysis)  
+   - Key files: `email_investigation.md`, `IOCs.csv`, `Phishing_Report_Alexander_Ramos.pdf`
+
+3) **Vulnerability Scan & Remediation** — Nessus/OpenVAS-style scan + fixes  
+   - Folder: [`Vulnerability-Scan`](./Vulnerability-Scan)  
+   - Key files: `Vuln_Scan_Report.md`, `Vuln_Scan_results.pdf`, `Vulnerability_Remediation_Plan_Alexander_Ramos.pdf`
+
+4) **Incident Response** — NIST 800-61 playbook + technical sim + case report  
+   - Folder: [`Incident-Response`](./Incident-Response)  
+   - Key files: `IR_Playbook.md`, `IR_Tech_Simulation.md`, `Case_Report.md`, `Case_Report_Alexander_Ramos.pdf`
+
+5) **Home Security Lab** — VirtualBox lab with Splunk & Security Onion  
+   - Folder: [`Home-Lab`](./Home-Lab)  
+   - Key files: `Lab_Setup_Guide.md`, `Network_Topology_Generated.png`, `Home_Lab_Report_Alexander_Ramos.pdf`
+
+6) **SOC Incident Simulation** — Suspicious PowerShell alert triage (Splunk)  
+   - Folder: [`SOC-Incident-Simulation`](./SOC-Incident-Simulation)  
+   - Key files: `SOC_Incident_Simulation.md`, `SOC_Report_Alexander_Ramos.pdf`
 ---
 
 ## 🧾 Summary

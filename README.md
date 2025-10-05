@@ -33,6 +33,7 @@ This portfolio highlights practical experience with incident response, vulnerabi
 
 ### 🧾 Artifact 3 – Vulnerability Scan
 **Deliverables:**
+- `Remediation_Plan.md`
 - `Vuln_Scan_Report.md`
 - `Vuln_Scan_Results.pdf`
 - `Vulnerability_Remediation_Plan_Alexander_Ramos.pdf`

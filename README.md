@@ -6,6 +6,17 @@ Each artifact simulates a practical SOC or governance scenario — including **t
 
 ---
 
+## 🧠 About This Portfolio
+
+This portfolio showcases my practical and theoretical cybersecurity experience across both **GRC** (Governance, Risk & Compliance) and **SOC** (Security Operations Center) domains.
+
+Each artifact demonstrates a key skill area — from identifying and mitigating risks, to building a secure lab environment, to detecting and responding to real-world cyber threats using **Splunk**, **Security Onion**, and other industry tools.
+
+All work presented here was completed independently as part of my ongoing professional development and hands-on cybersecurity training.
+
+---
+
+
 ## 📌 Featured Artifacts
 
 1) **SIEM Log Analysis** — Brute-force investigation with Splunk correlation  

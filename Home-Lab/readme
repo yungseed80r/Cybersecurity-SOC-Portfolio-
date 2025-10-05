@@ -1,14 +1,16 @@
-### 5. Home Lab Environment
+# 🧩 Artifact 5 – Home Lab Environment
+
+**Deliverables:**
+- `Lab_Setup_Guide.md`
+- `Network_Topology.png`
+- `Home_Lab_Report_Alexander_Ramos.pdf`
+
+**Focus:** Virtual lab deployment, baseline logging, and hands-on SOC simulations.
 
 **Objective:**  
-Design and configure a personal cybersecurity lab to simulate enterprise networks, perform testing, and develop hands-on SOC skills.
-
-**Artifacts:**  
-- Lab Setup Guide  
-- Network Topology Diagram  
-- Configuration and Testing Notes
+Design and configure a personal cybersecurity lab to simulate enterprise networks, perform vulnerability assessments, and develop SOC workflows.
 
 **Summary:**  
-This artifact illustrates the ability to build and manage a multi-VM lab using **VirtualBox**, **Kali Linux**, **Metasploitable 2**, and **Splunk**.  
-It documents system provisioning, segmentation, and baseline configurations to ensure realistic attack-and-defense simulations.  
-The environment serves as the foundation for practical exercises in vulnerability management, incident response, and threat analysis.
+This artifact documents a multi-VM lab built with **VirtualBox**, **Kali Linux**, **Metasploitable 2**, and **Splunk**.  
+It covers network segmentation, host configuration, and baseline logging to support realistic attack/defense scenarios.  
+The lab underpins practical exercises across the portfolio, including vulnerability scanning, SIEM analysis, and incident response.

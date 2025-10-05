@@ -86,11 +86,6 @@ This lab demonstrates practical security competencies such as:
 
 ---
 
-**Prepared by:**  
-_**Alexander T. Ramos – Cybersecurity Analyst**_
-
-
----
 
 ## 📎 Supporting Files
 
@@ -106,3 +101,9 @@ A concise report summarizing the hardware setup, network segmentation, and cyber
 
 **Artifact 5 Summary:**  
 This Home Security Lab demonstrates hands-on SOC and cybersecurity skills including log correlation (Splunk & Security Onion), attack simulation, vulnerability management, and network defense.
+
+
+**Prepared by:**  
+_**Alexander T. Ramos – Cybersecurity Analyst**_
+
+

@@ -5,7 +5,7 @@
 [🔗 View Cybersecurity SOC Portfolio Repository](https://github.com/yungseed80r/Cybersecurity-SOC-Portfolio-)
 
 📄 **Download Overview (PDF):**  
-[📥 Alexander_Ramos_Cybersecurity_SOC_Portfolio_Overview_v2.pdf](./Alexander_Ramos_Cybersecurity_SOC_Portfolio_Overview_v2.pdf)
+[📥 Alexander_Ramos_Cybersecurity_SOC_Portfolio_Overview.pdf](./Alexander_Ramos_Cybersecurity_SOC_Portfolio_Overview.pdf)
 
 💼 **Connect with Me:**  
 📧 [yungseed@gmail.com](mailto:yungseed@gmail.com)  

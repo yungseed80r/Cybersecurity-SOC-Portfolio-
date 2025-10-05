@@ -9,7 +9,7 @@
 
 💼 **Connect with Me:**  
 📧 [yungseed@gmail.com](mailto:yungseed@gmail.com)  
-🌐 [LinkedIn – Alexander T. Ramos](https://www.linkedin.com/in/alex-r-68115231)
+🌐 [LinkedIn – Alex Ramos](https://www.linkedin.com/in/alex-r-68115231)
 
 ---
 

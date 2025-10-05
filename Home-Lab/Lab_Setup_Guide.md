@@ -1,4 +1,4 @@
-## 🧰 Home Security Lab Setup Guide
+# 🧰 Home Security Lab Setup Guide
 
 ## 1. Objective
 This lab replicates a small-scale corporate network to safely practice cybersecurity operations — including penetration testing, vulnerability management, and SOC monitoring.  

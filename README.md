@@ -16,7 +16,7 @@ Each artifact simulates a practical SOC or governance scenario — including **t
    - Folder: [`Phishing-Email-Analysis`](./Phishing-Email-Analysis)  
    - Key files: `email_investigation.md`, `IOCs.csv`, `Phishing_Report_Alexander_Ramos.pdf`
 
-3) **Vulnerability Scan & Remediation** — Nessus/OpenVAS-style scan + fixes  
+3) **Vulnerability Scan** — Nessus/OpenVAS-style scan + fixes  
    - Folder: [`Vulnerability-Scan`](./Vulnerability-Scan)  
    - Key files: `Vuln_Scan_Report.md`, `Vuln_Scan_results.pdf`, `Vulnerability_Remediation_Plan_Alexander_Ramos.pdf`
 

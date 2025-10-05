@@ -45,10 +45,10 @@ This portfolio highlights practical experience with incident response, vulnerabi
 
 ### 🚨 Artifact 4 – Incident Response
 **Deliverables:**
-- `IR_Playbook.md`
-- `IR_Tech_Simulation.md`
 - `Case_Report.md`
 - `Case_Report_Alexander_Ramos.pdf`
+- `IR_Playbook.md`
+- `IR_Tech_Simulation.md`
 
 **Focus:** NIST 800-61 phases, triage, containment, and executive reporting.  
 **Summary:** Documents a full incident response lifecycle — preparation, detection, containment, eradication, recovery, and lessons learned — following **NIST 800-61** and SOC-aligned response methodologies.

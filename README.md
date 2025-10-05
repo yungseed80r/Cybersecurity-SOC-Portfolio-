@@ -1,5 +1,5 @@
 # 🛡️ Cybersecurity SOC Portfolio  
-### by Alexander T. Ramos  
+### by Alexander T. Ramos
 
 **Objective:**  
 Demonstrate end-to-end technical and analytical skills across the core functions of a Security Operations Center (SOC).  
@@ -11,10 +11,9 @@ This portfolio highlights practical experience with incident response, vulnerabi
 
 ### 🧠 Artifact 1 – SIEM Log Analysis
 **Deliverables:**
-- `SIEM_Log_Analysis.md`
-- `SIEM_Log_Findings.pdf`
-- `Correlation_Rules.md`
-- `Alert_Screenshots/`
+- `Log_Investigation.md`
+- `Queries.txt`
+- `SIEM_Log_Analysis_Findings.pdf`
 
 **Focus:** Splunk log ingestion, detection correlation, and SOC alert triage.  
 **Summary:** Demonstrates hands-on analysis of log data using **Splunk** to detect, correlate, and investigate security events. Covers rule creation, dashboard visualization, and incident validation aligned with SOC Tier I–II workflows.
@@ -23,7 +22,7 @@ This portfolio highlights practical experience with incident response, vulnerabi
 
 ### 📨 Artifact 2 – Phishing Email Analysis
 **Deliverables:**
-- `email_investigation.md`
+- `Email_Investigation.md`
 - `IOCs.csv`
 - `Phishing_Report_Alexander_Ramos.pdf`
 
@@ -35,7 +34,7 @@ This portfolio highlights practical experience with incident response, vulnerabi
 ### 🧾 Artifact 3 – Vulnerability Scan
 **Deliverables:**
 - `Vuln_Scan_Report.md`
-- `Vuln_Scan_results.pdf`
+- `Vuln_Scan_Results.pdf`
 - `Vulnerability_Remediation_Plan_Alexander_Ramos.pdf`
 
 **Focus:** Vulnerability identification, remediation workflow, and validation testing.  
@@ -68,7 +67,7 @@ This portfolio highlights practical experience with incident response, vulnerabi
 
 ### ⚔️ Artifact 6 – SOC Incident Simulation
 **Deliverables:**
-- `SOC_Incident_Simulation.md`
+- `SOC-Incident-Simulation.md`
 - `SOC_Report_Alexander_Ramos.pdf`
 
 **Focus:** End-to-end SOC simulation, event correlation, and escalation reporting.  
@@ -81,4 +80,11 @@ This portfolio highlights practical experience with incident response, vulnerabi
 `Splunk` • `Kali Linux` • `VirtualBox` • `Metasploitable 2` • `Nmap` • `Nikto` • `Wireshark` • `Burp Suite`  
 
 **Frameworks & Methodologies:**  
-`NIST 800-61` • `NIST 800-53` • `MITRE ATT&CK` • `Vuln
+`NIST 800-61` • `NIST 800-53` • `MITRE ATT&CK` • `Vulnerability Management Lifecycle` • `Incident Response Lifecycle`
+
+---
+
+## 🧑‍💻 About the Author
+**Alexander T. Ramos**  
+Cybersecurity Analyst | CompTIA Security+ | Network+ | IT Essentials Certified  
+Focused on security operations, risk management, and continuous improvement within enterprise and SOC environments.

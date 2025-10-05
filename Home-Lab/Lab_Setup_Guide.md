@@ -89,3 +89,20 @@ This lab demonstrates practical security competencies such as:
 **Prepared by:**  
 _**Alexander T. Ramos – Cybersecurity Analyst**_
 
+
+---
+
+## 📎 Supporting Files
+
+### 🗺️ Network Topology Diagram
+View or download the visual layout of the lab environment:
+➡️ [Network_Topology.png](./Network_Topology_Generated.png)
+
+### 🧾 Recruiter Summary Report
+A concise report summarizing the hardware setup, network segmentation, and cybersecurity use cases practiced within this lab:
+➡️ [Home_Lab_Report_Alexander_Ramos.pdf](./Home_Lab_Report_Alexander_Ramos.pdf)
+
+---
+
+**Artifact 5 Summary:**  
+This Home Security Lab demonstrates hands-on SOC and cybersecurity skills including log correlation (Splunk & Security Onion), attack simulation, vulnerability management, and network defense.

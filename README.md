@@ -57,9 +57,9 @@ This portfolio highlights practical experience with incident response, vulnerabi
 
 ### 🧩 Artifact 5 – Home Lab Environment
 **Deliverables:**
+- `Home_Lab_Report_Alexander_Ramos.pdf`
 - `Lab_Setup_Guide.md`
 - `Network_Topology.png`
-- `Home_Lab_Report_Alexander_Ramos.pdf`
 
 **Focus:** Virtual lab deployment, baseline logging, and hands-on SOC simulations.  
 **Summary:** Outlines the design of a cybersecurity home lab using **VirtualBox**, **Kali Linux**, **Metasploitable 2**, and **Splunk**. Serves as the foundation for vulnerability scanning, incident response, and SIEM exercises across all artifacts.

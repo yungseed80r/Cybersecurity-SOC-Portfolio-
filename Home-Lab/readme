@@ -1,0 +1,14 @@
+### 5. Home Lab Environment
+
+**Objective:**  
+Design and configure a personal cybersecurity lab to simulate enterprise networks, perform testing, and develop hands-on SOC skills.
+
+**Artifacts:**  
+- Lab Setup Guide  
+- Network Topology Diagram  
+- Configuration and Testing Notes
+
+**Summary:**  
+This artifact illustrates the ability to build and manage a multi-VM lab using **VirtualBox**, **Kali Linux**, **Metasploitable 2**, and **Splunk**.  
+It documents system provisioning, segmentation, and baseline configurations to ensure realistic attack-and-defense simulations.  
+The environment serves as the foundation for practical exercises in vulnerability management, incident response, and threat analysis.
